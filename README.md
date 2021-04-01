@@ -1,5 +1,5 @@
-- 👋  Hi, I’m @mechastriker3
-- 👀  I’m interested in all things tech
+- 👋 - Hi, I’m @mechastriker3
+- 👀 - I’m interested in all things tech
 - Other stuffs coming soon!!
 
 <!---
